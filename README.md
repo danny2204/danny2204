@@ -4,11 +4,14 @@
 **danny2204/danny2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-🔭 I’m currently working on Bina Nusantara University as Subject Coordinator in Software Laboratory Center
-🌱 I’m currently learning about Artificial Intelligence, including Deep Learning, Machine Learning, etc.
+ 🔭 I’m currently working on Bina Nusantara University as Subject Coordinator in Software Laboratory Center
+ <br>
+ 🌱 I’m currently learning about Artificial Intelligence, including Deep Learning, Machine Learning, etc.
 
 Languages I use
+<br>
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%20sharp)
@@ -31,3 +34,4 @@ Languages I use
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![VsCode](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=1575F9)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
